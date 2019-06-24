@@ -75,3 +75,8 @@ BA2_BrainDrain/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 BA2_BrainDrain/DerivedDataCache/*
+BA2_BrainDrain/Intermediate/CachedAssetRegistry.bin
+BA2_BrainDrain/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+BA2_BrainDrain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+BA2_BrainDrain/Saved/Config/Windows/Engine.ini
+BA2_BrainDrain/Saved/Logs/BA2_BrainDrain.log
