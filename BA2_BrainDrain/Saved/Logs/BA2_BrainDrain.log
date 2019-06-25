@@ -6796,3 +6796,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.25-14.50.20:972][373]LogSlate: Window 'Submit Files' being destroyed
 [2019.06.25-14.51.05:702][625]LogDirectoryWatcher: A directory notification failed for 'C:/Users/tmoranog/Documents/GitHub/BrainDrainInteractive/BA2_BrainDrain/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.06.25-14.51.05:702][625]LogDirectoryWatcher: A directory notification failed for 'C:/Users/tmoranog/Documents/GitHub/BrainDrainInteractive/BA2_BrainDrain/Content/Developers/tmoranog/Collections/' because it could not be accessed. Aborting watch request...
+[2019.06.25-14.54.15:858][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-14.54.15:998][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.25-14.54.16:298][618]LogSavePackage: Moving '../../../../../../Users/tmoranog/Documents/GitHub/BrainDrainInteractive/BA2_BrainDrain/Saved/L_Areas_HUB_0162C7AD494446862DE92080B0E2006A62.tmp' to '../../../../../../Users/tmoranog/Documents/GitHub/BrainDrainInteractive/BA2_BrainDrain/Content/Levels/Areas/L_Areas_HUB_01.umap'
+[2019.06.25-14.54.16:614][618]LogSavePackage: Moving '../../../../../../Users/tmoranog/Documents/GitHub/BrainDrainInteractive/BA2_BrainDrain/Saved/L_Areas_HUB_01_BuiltDataF9F6075C4CB89B6599852EB137900044.tmp' to '../../../../../../Users/tmoranog/Documents/GitHub/BrainDrainInteractive/BA2_BrainDrain/Content/Levels/Areas/L_Areas_HUB_01_BuiltData.uasset'
