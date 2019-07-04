@@ -14,3 +14,4 @@ UI_BACK_220168__gameaudio__button-spacey-confirm - Kopie
 UI_CONFIRM_220168__gameaudio__button-spacey-confirm
 UI_321104__nsstudios__blip2
 SFX_Breathing 2_267305__viznoman__breathing
+Door_Opening_424169__rooms-boxes__stone-sliding
