@@ -33,7 +33,7 @@
         }
     },
     "texturesets": {
-        "Arm1": {
+        "Arm": {
             "shader": "Main shader"
         },
         "L_dish": {
