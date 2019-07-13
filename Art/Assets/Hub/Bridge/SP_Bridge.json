@@ -7,7 +7,7 @@
             "parameters": {
                 "Common Parameters": {
                     "ao_intensity": 0.75,
-                    "emissive_intensity": 1,
+                    "emissive_intensity": 2,
                     "horizonFade": 1.2999999523162842,
                     "nbSamples": 16
                 },
