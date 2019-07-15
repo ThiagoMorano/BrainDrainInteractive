@@ -1,0 +1,12 @@
+Forest Level:
+
+- Player can skip level at beginning
+- Traversable path unclear if player enters forest
+- More rocks with fucked up UVs
+- Player can fall out of the map
+- Cigarette and fire not aligned
+- Some trees floating
+- Graphical glitches at fences
+- Can't enter entrance of hut -> inconsistent
+- Wildfire avoids character when approached -> might break immersion
+
