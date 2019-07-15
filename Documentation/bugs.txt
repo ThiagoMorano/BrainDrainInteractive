@@ -30,6 +30,24 @@ Office Level:
 - Character can fall through hole onto scale -> might be annoying
 - Level is cheesable: Player can drop onto scale arm from top and reach end platform by walking on scale arm.
 
+Atelier:
+
+- Wallrun very choppy
+- Wallrun doesn't work if camera sideways
+- Glow on hands sometimes doesn't disappear
+
+Conclusion:
+
+- Ground texture glitchy
+- Wall texture blurred/distorted
+- Wall next to final door is either transparent or reflective, but doesn't look right either way
+- Final plattform can be reached without floating plattforms (Cheese)
+- No mouse cursor after fade to credits (if there ever was one)
+
+Hub:
+
+- Can't get back on center after leaving it, might be confusing
+- Torso can be skipped entirely by going directly to arms door
 
 
 
