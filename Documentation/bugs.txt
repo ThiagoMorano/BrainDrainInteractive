@@ -10,3 +10,28 @@ Forest Level:
 - Can't enter entrance of hut -> inconsistent
 - Wildfire avoids character when approached -> might break immersion
 
+Office Level:
+
+- Torso blocked by cabinets -> Player might not know where to go.
+- Document seal at dokument to go up clipped into cabinet -> makes character spaz out
+- Same cabinet: Can get stuck between wall and document when pushed
+- Bottom labyrinth walls not perfectly positioned
+- Office labyrinth wall textures not consistent
+- Plyer can get stuck at chair in corner of labyrinth (M_chair_v16)
+- Player can walk past wallrun document (M_Wallrun_Document_Document11 & 12)
+- Wallrun document at monitor doesn't work
+- Player can walk past blockage cabinet (M_FileCabinet8)
+- File Cabinets get stuck when pushed (BP_PushableObject3,4,5)
+- Camera clips through upper plattform during cutscene
+- Roof of upper level extremely dark -> seems like missing textures/light
+- Color pallet clips through ground easily -> looks weird and makes it hard to push
+- Glass floor on upper level makes it harder to tell where the objects need to be pushed
+- Pushing objects down entrance to upper level possible -> makes level unbeatable
+- Character can fall through hole onto scale -> might be annoying
+- Level is cheesable: Player can drop onto scale arm from top and reach end platform by walking on scale arm.
+
+
+
+
+
+ 
